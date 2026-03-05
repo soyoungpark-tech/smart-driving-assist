@@ -41,8 +41,4 @@ This project implements a lightweight, real-time driving assist system that:
 - Deploy as a Streamlit or Flask-based application
 
 
-**Soyoung Park**  
-🔗 GitHub: [@soyoungpark-tech](https://github.com/soyoungpark-tech)  
-📫 Email: your@email.com  
-📝 Blog (Project in Progress): [[Add link to your blog post here]](https://blog.naver.com/thdud4961)
 
